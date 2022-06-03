@@ -1,0 +1,10 @@
+li{
+    display:inline;
+    padding:15px;
+}
+ul{
+    float:right;
+}
+li:hover{
+    background-color:aqua;
+}
